@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523077433 source:c:\users\x\dropbox\my notes\cz1007 data structures\labs\my_programming_files\lab11_1\main.c
+	"stdio.h"
+	<stdlib.h>
+	<ctype.h>
+

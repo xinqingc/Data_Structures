@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521181773 source:c:\users\x\nanyang technological university\#tan sheng rong# - cz1007 data structures\xin qing\lab test 1\test_strings_4\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

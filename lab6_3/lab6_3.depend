@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519372187 source:w:\my notes\cz1007 data structures\labs\my_programming_files\lab6_3\main.c
+	<stdio.h>
+	<string.h>
+
